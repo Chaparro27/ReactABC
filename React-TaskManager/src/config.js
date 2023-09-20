@@ -1,0 +1,1 @@
+export const TOKEN_SECRET_KEY = 'Cl@v3T0k3n';
